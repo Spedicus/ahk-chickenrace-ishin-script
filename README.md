@@ -1,4 +1,4 @@
-# chickenrace
+# ahk-chickenrace-ishin-script
 An AHK script to automate certain sections of the Like a Dragon: Ishin chicken race minigame
 ## Instructions
 1. Install AutoHotKey [here](https://www.autohotkey.com)
